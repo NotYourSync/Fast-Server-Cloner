@@ -1,0 +1,31 @@
+
+Made by Sync
+
+To use this bot, you need to follow these steps:
+
+1. Install the necessary libraries:
+   - `discord.py` (for interacting with Discord API)
+   - `aiohttp` (for downloading emoji images)
+
+  Type these before running :
+  pip install discord.py-self
+pip install aiohttp
+in termux --> pkg update
+                    pkg upgrade
+                    pkg install python
+                    
+Instructions:
+Replace:
+
+"your_user_token" with your user token (not bot token).
+
+Replace ENTER_SOURCE_SERVER_ID_HERE with the source guild ID (the server ID you want to copy from).
+
+Replace ENTER_TARGET_SERVER_ID_HERE with the target guild ID (the server you want to copy to).
+
+You should find these IDs by enabling Developer Mode in Discord and right-clicking on the server to copy its ID.
+ 
+
+IMPORTANT: Do NOT repost this script without credit to Sync.
+
+tu run yype python cloner.py
