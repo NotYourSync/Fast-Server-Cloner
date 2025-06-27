@@ -2,9 +2,9 @@ import discord
 from discord.ext import commands
 import aiohttp
 
-TOKEN = "MTM1OTExMjA4Nzk1NTE4MTY0MA.GXfiZf.rn6HQCAL22cLz6SYXhNxu4NsvO2bP4Hj0mgnnk"
-SOURCE_GUILD_ID = "1365020059889700960"
-TARGET_GUILD_ID = "1280098467263283313"
+TOKEN = "Enter Your Token"
+SOURCE_GUILD_ID = "srv id you want to copy"
+TARGET_GUILD_ID = "Target srv id"
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", self_bot=True, intents=intents)
