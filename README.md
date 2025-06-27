@@ -1,4 +1,4 @@
-# Crucifix Cloner 🏮
+# Best Server Cloner 🏮
 Clones Discord Server
 
 ## ⚡ Best Cloner On Cord
