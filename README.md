@@ -6,7 +6,8 @@ Clones Discord Server
 Added Emoji Cloner
 ## Requirements:
 `discord.py==1.7.3`
-`colorama`
 `aiohttp`
 
-# MaDe By Sync.
+
+# Python..
+##  MaDe By Sync.
