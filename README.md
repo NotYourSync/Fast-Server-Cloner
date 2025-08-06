@@ -1,4 +1,5 @@
-# Best Server Cloner 🏮
+# Server Cloner - Selfbot
+
 Clones Discord Server
 
 ## ⚡ Best Cloner On Cord
